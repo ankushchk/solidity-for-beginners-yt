@@ -10,14 +10,12 @@ contract Modifiers {
 
     // example -> make a contract where the people who deployed the contract can only be able to buy the nfts.
 
-
     address public owner;
     bool canMintNFT;
 
     constructor() {
-        owner = msg.sender;
+        owner = msg.sender; // setting the owner who have deployed the contract
     }
-
 
     modifier onlyOwner {
      require(owner == msg.sender, "You don't have access to mint this nft!");

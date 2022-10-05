@@ -21,6 +21,15 @@ contract Loops {
             if (i == 5) {
                 break;
             }
+            
+            if (i == 7) {
+                break;
+           }
+           
+           if (i == 9) {
+                break;
+           }
+            
         }
         // while loop 
             uint256 j;
