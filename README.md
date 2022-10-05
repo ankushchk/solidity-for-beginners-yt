@@ -1,21 +1,28 @@
-# Solidity Basics - by [Ankush](https://bitly.com/ankushchauhan) ❤️ 
+# Solidity Basics - by [Ankush](https://bitly.com/ankushchauhan) ❤️
 
 # Support Our Work!
 
 If you liked my free course, then feel free to [follow me](https://linktr.ee/ankushchauhan) or donate here!
 
-**ETH / Polygon / Avalanche / etc Address:** 
-``` 
-0x197be7B9D4Ab5bcDd3284cc42641Ea6bA961792f 
-``` 
+**ETH / Polygon / Avalanche / etc Address:**
 
-**ENS:** 
+```
+0x197be7B9D4Ab5bcDd3284cc42641Ea6bA961792f
+```
+
+**ENS:**
 
 ```
 ankushchauhan.eth
 ```
 
-## Links 
+**Solana:**
+
+```
+ankush.sol
+```
+
+## Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ankush.ml)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankushchauhan14)
